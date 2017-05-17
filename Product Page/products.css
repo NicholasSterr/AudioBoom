@@ -1,0 +1,33 @@
+/*
+ * Start Bootstrap - Heroic Features (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+
+
+footer {
+  background-color: white;
+  padding: 30px;
+}
+
+footer li {
+  float: left;
+    padding: 0px 10px 0px 10px;
+    list-style: none;
+  font-size: 15px;
+}
+
+#button {
+  background-color: grey;
+  border: black;
+}
+
+body {
+  background-color: #e2dedb;
+}
+
+img {
+  width: 200px;
+  height: auto;
+}
