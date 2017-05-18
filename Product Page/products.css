@@ -31,3 +31,8 @@ img {
   width: 200px;
   height: auto;
 }
+
+header {
+  text-align: center;
+  background-color: white;
+}
