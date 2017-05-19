@@ -1,0 +1,51 @@
+@media screen and (min-width:768px) {
+    .navbar-brand-centered {
+        position: absolute;
+        left: 50%;
+        display: block;
+        width: 160px;
+        text-align: center;
+        background-color: #eee;
+    }
+    .navbar>.container .navbar-brand-centered, .navbar>.container-fluid .navbar-brand-centered {
+        margin-left: -80px;
+    }
+}
+
+body, h1, h2 {
+    font-family: "Raleway", sans-serif
+}
+
+body, html {
+    height: 100%
+}
+
+p {
+    line-height: 2
+}
+
+.bgimg, .bgimg2 {
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bgimg {
+    background-image: url("head10.jpg")
+}
+
+.bgimg2 {
+    background-image: url("head7.jpg")
+}
+
+footer {
+    background-color: white;
+    padding: 35px;
+}
+
+footer li {
+    float: left;
+    padding: 0px 10px 0px 10px;
+    list-style: none;
+    font-size: 16px;
+}
